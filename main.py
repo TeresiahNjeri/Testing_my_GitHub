@@ -1,2 +1,2 @@
-name = input('What is your name?\n')
-print('Hi, %s.' % name)
+city = input('What is the name of your new city?\n')
+print('Welcome to, %s.' % city)
